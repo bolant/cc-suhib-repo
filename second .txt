@@ -1,1 +1,3 @@
 This is the second file 
+
+Don't open secret file 
